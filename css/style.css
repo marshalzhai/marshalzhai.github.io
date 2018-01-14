@@ -18,7 +18,7 @@ html {
 body {
   
   color: #69707a;
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: 'Indie Flower', cursive;
 }
 
 strong {
@@ -26,7 +26,7 @@ strong {
 }
 
 .navbar {
-  background: #e16879;
+  background: #FFB6C1;
 }
 
 .btn {
@@ -34,8 +34,8 @@ strong {
 }
 
 .btn-primary {
-  background: #e16879;
-  border-color: #e16879;
+  background: #FFB6C1;
+  border-color: #FFB6C1;
 }
 
 .btn-primary:hover,
@@ -51,7 +51,7 @@ strong {
 }
 
 .card-title {
-  color: #e16879;
+  color: #FFB6C1;
   font-weight: 300;
 }
 
@@ -78,5 +78,27 @@ strong {
 
 .description3 {
 		background-image: url("../img/bg6.jpg");
+  background-repeat: repeat-x;
+}
+
+.description4 {
+		background-image: url("../img/bg3.jpg");
+		background-size: 100%;
+  background-repeat: repeat-x;
+}
+
+
+.description5 {
+		background-image: url("../img/bg7.jpg");
+  background-repeat: repeat-x;
+}
+
+.description6 {
+		background-image: url("../img/bg8.jpg");
+  background-repeat: repeat-x;
+}
+
+.description7 {
+		background-image: url("../img/bg9.jpg");
   background-repeat: repeat-x;
 }
